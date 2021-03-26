@@ -1,0 +1,4 @@
+github.com/omigo/log v0.1.1 h1:8DEDcN/uYCVoSH/wjM1NzgNFfUDsEsb2Vy3eiR+/1Fo=
+github.com/omigo/log v0.1.1/go.mod h1:3WjW3nPtshrS76Ws1iQMAgR/q+TP8ZXCjpZkCnHIDDQ=
+gocv.io/x/gocv v0.26.0 h1:1azNvYEM245YN1bdw/WdX5YJzLg3Sr4STX0MqdWBIXM=
+gocv.io/x/gocv v0.26.0/go.mod h1:7Ju5KbPo+R85evmlhhKPVMwXtgDRNX/PtfVfbToSrLU=
