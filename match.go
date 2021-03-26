@@ -54,7 +54,6 @@ func getReq(r *http.Request) (req *Req, err error) {
 }
 
 func getDistance(w http.ResponseWriter, r *http.Request) {
-	panic("asdfa")
 	req, err := getReq(r)
 	if err != nil {
 		w.WriteHeader(http.StatusBadRequest)
